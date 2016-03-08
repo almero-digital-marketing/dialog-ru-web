@@ -1,7 +1,7 @@
 layout: /stores.ect
 href: '/kitchens/stores'
 lang: ru
-title: 'Магазини'
+title: 'Магазины'
 sofia:
   title: 'Шоу-рум на кухонь Диалог в Софии' 
   navigationTitle: 'Шоурум София'
@@ -11,12 +11,16 @@ sofia:
   personnel:
     -
       name: 'Ангелина Тотолакова' 
-      email: 'totolakova@kuhnidialog.bg'
+      email: 'totolakova@kuhnidialog.bg|моб. телефон: +359 885 29 18 80'
       image: '/images/totolakova.jpg'
     -
       name: 'Лидия Котова' 
-      email: 'kotova_lidia@kuhnidialog.bg'
+      email: 'kotova_lidia@kuhnidialog.bg|моб. телефон: +359 879 13 60 20'
       image: '/images/kuteva.jpg'
+    -
+      name: 'Маноела Бангеева' 
+      email: 'manoela@kuhnidialog.bg'
+      image: '/images/bangeeva.jpg'
 plovdiv:
   title: 'Шоу-рум на кухонь Диалог в Пловдиве' 
   navigationTitle: 'Шоурум Пловдив'
@@ -26,9 +30,13 @@ plovdiv:
   personnel:
     -
       name: 'Радосвета Вълкова' 
-      email: 'valkova_r@kuhnidialog.bg | моб. телефон: 0887 43 57 53'
+      email: 'valkova_r@kuhnidialog.bg|моб. телефон: +359 887 43 57 53'
       image: '/images/valkova.jpg'
     -
       name: 'Екатерина Иванова' 
-      email: 'ivanova_e@kuhnidialog.bg | моб. телефон: 0889 24 03 84'
+      email: 'ivanova_e@kuhnidialog.bg|моб. телефон: +359 889 24 03 84'
       image: '/images/ivanova.jpg'
+    -
+      name: 'Кристина Богданова' 
+      email: 'bogdanova_k@kuhnidialog.bg|моб. телефон: +359 889 24 03 84'
+      image: '/images/bogdanova.jpg'
